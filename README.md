@@ -1,4 +1,4 @@
-# Hi there, I'm [Your Name] 👋
+# Hi there, I'm [HOYUN JUNG] 👋
 
 Welcome to my GitHub profile! I am a Class of 2026 student at Aoyama Gakuin University, passionate about integrating advanced AI technologies with practical engineering solutions. With experience in journalism and tutoring for the JLPT N1, I thrive in dynamic, multilingual environments and love building tools that solve real-world problems.
 
@@ -16,7 +16,7 @@ Welcome to my GitHub profile! I am a Class of 2026 student at Aoyama Gakuin Univ
 #### 🤖 AI Marketing Agent
 - **Description:** Designed and developed an automated marketing agent powered by cutting-edge LLMs (Claude, Gemini, GPT).
 - **Impact:** Streamlines marketing workflows, generates targeted content, and assists in strategic decision-making. 
-- **Tech Stack:** [Insert Languages/Frameworks, e.g., Python, LangChain, API integrations]
+- **Tech Stack:** [RAG,LangChain,context-promting]
 
 ---
 
@@ -46,8 +46,8 @@ When I'm not building AI agents or studying engineering, I am deeply passionate 
 ---
 
 ### 📫 Let's Connect!
-- **Email:** [Your Email Address]
-- **LinkedIn:** [Your LinkedIn URL]
+- **Email:** [hoyunjung825@gmail.com]
+- **LinkedIn:** [www.linkedin.com/in/hoyun-jung-aa45a117b]
 
 <br/>
 <p align="center">
