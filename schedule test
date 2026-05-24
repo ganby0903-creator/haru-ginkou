@@ -1,0 +1,6 @@
+git init
+git add .
+git commit -m "first commit"
+# GitHub에서 새 repo 만든 후:
+git remote add origin https://github.com/아이디/line-claude-bot.git
+git push -u origin main
